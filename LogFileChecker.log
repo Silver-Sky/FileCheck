@@ -1,0 +1,170 @@
+2018-02-02 08:13:53,994 - LogFileChecker - INFO - **** Scan Log 2018-02-02 08:13:53.994326 by ar ****
+
+
+2018-02-02 08:13:54,003 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-02 08:13:54,004 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-02 08:13:54,004 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: MESSAGE_TYPE: ERROR
+>   Passed
+
+2018-02-02 08:13:54,008 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-02 08:13:54,009 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-02 08:13:54,009 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-02 08:13:54.009542 ****
+2018-02-02 08:14:21,235 - LogFileChecker - INFO - **** Scan Log 2018-02-02 08:14:21.235580 by ar ****
+
+
+2018-02-02 08:14:21,240 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-02 08:14:21,241 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-02 08:14:21,241 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: MESSAGE_TYPE: ERROR
+>   Passed
+
+2018-02-02 08:14:21,242 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-02 08:14:21,243 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-02 08:14:21,243 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-02 08:14:21.243377 ****
+2018-02-05 22:28:23,945 - LogFileChecker - INFO - **** Scan Log 2018-02-05 22:28:23.945844 by ar ****
+
+
+2018-02-05 22:28:23,952 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-05 22:28:23,952 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-05 22:28:23,953 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: MESSAGE_TYPE: ERROR
+>   Passed
+
+2018-02-05 22:28:23,955 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-05 22:28:23,955 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-05 22:28:23,956 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-05 22:28:23.956161 ****
+2018-02-12 21:02:18,252 - LogFileChecker - INFO - **** Scan Log 2018-02-12 21:02:18.252527 by ar ****
+
+
+2018-02-12 21:02:18,258 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-12 21:02:18,258 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-12 21:02:18,258 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: MESSAGE_TYPE: ERROR
+>   Passed
+
+2018-02-12 21:02:18,260 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-12 21:02:18,261 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-12 21:02:18,261 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-12 21:02:18.261390 ****
+2018-02-18 17:33:31,275 - LogFileChecker - INFO - **** Scan Log 2018-02-18 17:33:31.275485 by ar ****
+
+
+2018-02-18 17:33:31,283 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-18 17:33:31,284 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-18 17:33:31,284 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: MESSAGE_TYPE: ERROR
+>   Passed
+
+2018-02-18 17:33:31,287 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:33:31,287 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:33:31,288 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-18 17:33:31.288155 ****
+2018-02-18 17:34:10,680 - LogFileChecker - INFO - **** Scan Log 2018-02-18 17:34:10.680253 by ar ****
+
+
+2018-02-18 17:34:10,684 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-18 17:34:10,685 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-18 17:34:10,685 - LogFileChecker - INFO - An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory')
+2018-02-18 17:34:10,685 - LogFileChecker - INFO - An exception of type AttributeError occurred. Arguments:
+("'LoadFile' object has no attribute '_LoadFile__file'",)
+2018-02-18 17:34:10,685 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: An exception of type AttributeError occurred. Arguments:
+("'LoadFile' object has no attribute '_LoadFile__file'",)
+!-> Failed!!!
+
+2018-02-18 17:34:10,687 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:34:10,688 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:34:10,688 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-18 17:34:10.688117 ****
+2018-02-18 17:34:51,788 - LogFileChecker - INFO - **** Scan Log 2018-02-18 17:34:51.788213 by ar ****
+
+
+2018-02-18 17:34:51,792 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-18 17:34:51,792 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-18 17:34:51,792 - LogFileChecker - INFO - An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory')
+2018-02-18 17:34:51,792 - LogFileChecker - INFO - An exception of type AttributeError occurred. Arguments:
+("'LoadFile' object has no attribute '_LoadFile__file'",)
+2018-02-18 17:34:51,792 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: An exception of type AttributeError occurred. Arguments:
+("'LoadFile' object has no attribute '_LoadFile__file'",)
+!-> Failed!!!
+
+2018-02-18 17:34:51,794 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:34:51,794 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:34:51,795 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-18 17:34:51.795065 ****
+2018-02-18 17:35:49,854 - LogFileChecker - INFO - **** Scan Log 2018-02-18 17:35:49.854101 by ar ****
+
+
+2018-02-18 17:35:49,858 - LogFileChecker - INFO -     TE2 Date Today	 type: 	Date Compared Value: Feb 1 2018  2
+!-> Failed!!!
+
+2018-02-18 17:35:49,858 - LogFileChecker - INFO -     TE2 Severity	 type: 	Integer Compared Value: 0
+>   Passed
+
+2018-02-18 17:35:49,858 - LogFileChecker - INFO -     TE2 Error Messages	 type: 	String Compared Value: MESSAGE_TYPE: ERROR
+>   Passed
+
+2018-02-18 17:35:49,860 - LogFileChecker - INFO -     TE2 DB_Job_info 1	 type: 	Date Compared Value: Feb 1 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:35:49,860 - LogFileChecker - INFO -     TE2 DB_Job_info 2	 type: 	Date Compared Value: Jan 11 2018  2:15AM
+!-> Failed!!!
+
+2018-02-18 17:35:49,861 - LogFileChecker - INFO - 
+**** All Test executed: 2018-02-18 17:35:49.861141 ****

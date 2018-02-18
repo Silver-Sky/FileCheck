@@ -1,0 +1,8 @@
+JOB_OUTPUT$$$$Daily Load: 2018-01-10
+Start-Timestamp: Feb 1 2018  2:15AM
+End-Timestamp:   Feb 1 2018  2:15AM 
+
+----------------------------------------------------------------------------------------------
+
+Messages with Message-Severity greater then: 0
+ID: 7043 / MESSAGE_TIMESTAMP: Jan 31 2018  2:15AM / EOD_PROCESS_LOAD_DATE: 2018-01-10 / ITEM: [dbo].[usp_daily_health_checks] / QUANTITY: 5 / MESSAGE: START_DATE FIRST VERSION NOT EQUAL TO CREATED DATE OF ISSUE-ISSUE_VERSION_ALL / MESSAGE_TYPE: ERROR / MESSAGE_SEVERITY: 2$$$$

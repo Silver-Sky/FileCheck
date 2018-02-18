@@ -1,0 +1,5 @@
+Job Name,Job_Step,Time Run,Job Status,Job Outcome,run_duration (DD:HH:MM:SS)  
+WE_WFST_BUFull (SEM_DATAMART),(Job outcome),Jan 11 2018 12:01AM,Enabled,Succeeded,00:00:06:35
+MWE_WFST_IDXUpdSt (SEM_DATAMART),(Job outcome),Jan 11 2018 12:07AM,Enabled,Succeeded,00:00:04:22
+SEM_DATAMART_DAILY_LOAD_TASK_TOP,(Job outcome),Feb 1 2018  2:15AM,Enabled,Succeeded,00:00:00:38
+SEM_DATAMART_DAILY_LOAD_ATT_HRI,(Job outcome),Jan 11 2018  2:15AM,Enabled,Succeeded,00:00:01:42
